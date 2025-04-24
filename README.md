@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sibabalwe Qamata!
 
-Sibabalwe is a seasoned Senior Software and Cloud Engineer dedicated to acquiring rare and valuable skills. His typical day involves building software at work, reading tech blogs on Medium or books to stay updated with the latest technologies. Before entering the job market, Sibabalwe spent most of his student life interning, teaching, and mentoring students on campus.
+Sibabalwe is a seasoned Software and Cloud Engineer dedicated to acquiring rare and valuable skills. His typical day involves building software at work, reading tech blogs on Medium or books to stay updated with the latest technologies. Before entering the job market, Sibabalwe spent most of his student life interning, teaching, and mentoring students on campus.
 
 ---
 🧰 Toolbox
